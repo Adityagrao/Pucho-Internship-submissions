@@ -1,4 +1,4 @@
 This repository consist of submissions to the Pucho Internship
 
-# Pucho-Intership-submissions
+# Pucho-Internship-submissions
 Allstate Claims Severity
